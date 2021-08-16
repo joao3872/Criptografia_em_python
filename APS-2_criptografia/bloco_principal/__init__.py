@@ -12,9 +12,8 @@ def string(text):
          # em seguida, ele substitui os números por espaço vázio.
          # e o terceiro passo, é chamar a variável que vai ter o seu conteúdo alterado.
         if remove_numeros:
-            tirar_espaco = remove_numeros.replace(' .', '.').strip()
+            tirar_espaco = remove_numeros.replace(' .', '.')
              # tirar_espaco, serve para tirar um espaço a mais, quando é digitado um número real, como por exemplo 5.5...
-             # e tem um .strip() no final, para remover os espaços no começo e no fim da frase...
             return tirar_espaco # retorna o resultado de tirar_espaco.
         elif '' in msg:
             print('\nNão teve digitação. Tente novamente! \n') # se der um enter, sem digitar nada, ou digitar números inteiros, aparece essa frase e vai pedir para digitar a mensagem novamente.
