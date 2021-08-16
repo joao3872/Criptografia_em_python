@@ -38,7 +38,7 @@ def prin():
          # Se a mensagem passar de 128 caracteres, vai ser exibido esse print.
          # E vai reiniciar o programa, pedindo para digitar uma nova mensagem.
     while True:
-        continua = str(input('\nDeseja continuar [Sim / Não]? ')).strip().upper()
+        continua = str(input('\nDeseja Cripitografar uma nova mensagem [Sim / Não]? ')).strip().upper()
          # aqui é a parte da repetição, na qual, pergunta se o usuário deseja continuar ou não.
         if continua == 'SIM':
             prin() # se a resposta for sim, vai ser executado o programa novamente.
