@@ -10,7 +10,7 @@
 
 * Não digite Números, pois, esses serão ignorados.
 
-* Caso, o usuário digite Sim ou Não de forma errada, ou na mensagem apertar o enter sem digitar nada, aparece um aviso e pedi para digitar novamente.
+* Caso, o usuário digite Sim ou Não de forma errada, ou na mensagem, apertar o enter sem digitar nada, aparece um aviso e pedi para digitar novamente.
 
 ### Um Gif dessa Criptografia:
 
