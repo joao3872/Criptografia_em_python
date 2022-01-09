@@ -2,7 +2,7 @@
 
 ### Sobre a Criptografia:
 
-* Se o limite de 128 caracteres for ultrapassado, aparece uma mensagem de erro e pedi para digitar novamente.
+* Se o limite de 128 caracteres for ultrapassado, aparece um aviso e pedi para digitar novamente.
 
 * O usuário pode escolher, se deseja criptografar uma nova mensagem ou não.
 
@@ -10,7 +10,7 @@
 
 * Não digite Números, pois, esses serão ignorados.
 
-* Caso, seja o usuário digite Sim ou Não de forma errada, ou na mensagem apertar o enter sem digitar nada, aparece um aviso e pedi para digitar novamente.
+* Caso, o usuário digite Sim ou Não de forma errada, ou na mensagem apertar o enter sem digitar nada, aparece um aviso e pedi para digitar novamente.
 
 ### Um Gif dessa Criptografia:
 
